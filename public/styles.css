@@ -21,9 +21,15 @@ p{
  }
 
  h1 {
+   padding: 5px;
    color:    #DDDDDD;
  }
 
  h2 {
    color: #FFD369;
  }
+
+img {
+  border-radius: 50%;
+  height: 100px;
+}
