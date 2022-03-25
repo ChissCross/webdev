@@ -1,0 +1,29 @@
+/*
+Color paletes: https://colorhunt.co/palettes/dark
+dark1:    #222831
+medium:   #393E46
+light1:   #DDDDDD
+light2:   #EEEEEE
+aczent1:  #FFD369
+aczent2:  #C84B31
+*/
+
+html * {
+   font-family: Arial, Helvetica, sans-serif !important;
+}
+
+p{
+  color: #DDDDDD;
+}
+
+ body {
+   background: #222831;
+ }
+
+ h1 {
+   color:    #DDDDDD;
+ }
+
+ h2 {
+   color: #FFD369;
+ }
